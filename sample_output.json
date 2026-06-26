@@ -1,0 +1,17 @@
+{
+    "ticket_id": "TKT-001",
+    "relevant_transaction_id": "TXN-9101",
+    "evidence_verdict": "consistent",
+    "case_type": "wrong_transfer",
+    "severity": "high",
+    "department": "dispute_resolution",
+    "agent_summary": "The customer reports mistakenly sending 5000 taka to an incorrect number, +8801719876543, around 2:08 PM today, instead of the intended 01712345678. The transaction history confirms a completed transfer of 5000 taka to the stated incorrect number at the specified time. The customer indicates the recipient is not responding.",
+    "recommended_next_action": "Initiate a formal dispute resolution process for the wrong transfer. Attempt to contact the recipient of the incorrect transfer (+8801719876543) to request a return of funds. Provide the customer with information on the wrong transfer policy and potential recovery timelines.",
+    "customer_reply": "We understand your concern regarding the 5000 taka transfer to an incorrect number. Our records confirm a completed transfer of 5000 taka to +8801719876543 at 2:08 PM today. We are initiating an investigation into this wrong transfer. Our dispute resolution team will attempt to contact the recipient to facilitate the return of funds. Any eligible amount will be returned through official channels.",
+    "human_review_required": true,
+    "confidence": 1,
+    "reason_codes": [
+        "wrong_recipient",
+        "unresponsive_recipient"
+    ]
+}
